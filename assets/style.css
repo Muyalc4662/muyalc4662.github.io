@@ -275,6 +275,7 @@ details[open] .abstract-toggle::before { content: "▾ "; }
   white-space: nowrap;
 }
 .entry__place { color: var(--muted); margin: 2px 0 0; font-size: 0.98rem; }
+.entry__talk { margin: 4px 0 0; font-size: 0.98rem; color: var(--text); }
 .entry ul { margin: 8px 0 0; padding-left: 20px; }
 .entry ul li { margin: 2px 0; }
 
