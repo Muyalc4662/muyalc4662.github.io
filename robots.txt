@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://france-dagrain.github.io/sitemap.xml
