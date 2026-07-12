@@ -1,7 +1,7 @@
 # France d'Agrain — Academic Website
 
 Personal academic website (static HTML/CSS) for France d'Agrain, PhD candidate in
-Economics at CERNA, Mines de Paris – PSL.
+Economics at CEDP, Mines de Paris – PSL.
 
 ## Structure
 
